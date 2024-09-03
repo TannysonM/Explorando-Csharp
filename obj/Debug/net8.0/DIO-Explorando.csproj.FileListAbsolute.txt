@@ -1,0 +1,14 @@
+C:\PROGRAMANDO EM C#\DIO-Explorando\bin\Debug\net8.0\DIO-Explorando.exe
+C:\PROGRAMANDO EM C#\DIO-Explorando\bin\Debug\net8.0\DIO-Explorando.deps.json
+C:\PROGRAMANDO EM C#\DIO-Explorando\bin\Debug\net8.0\DIO-Explorando.runtimeconfig.json
+C:\PROGRAMANDO EM C#\DIO-Explorando\bin\Debug\net8.0\DIO-Explorando.dll
+C:\PROGRAMANDO EM C#\DIO-Explorando\bin\Debug\net8.0\DIO-Explorando.pdb
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.AssemblyInfoInputs.cache
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.AssemblyInfo.cs
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.csproj.CoreCompileInputs.cache
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.dll
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\refint\DIO-Explorando.dll
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.pdb
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.genruntimeconfig.cache
+C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\ref\DIO-Explorando.dll
