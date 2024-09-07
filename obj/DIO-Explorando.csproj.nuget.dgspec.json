@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROGRAMANDO EM C#\\DIO-Explorando\\DIO-Explorando.csproj": {}
+    "C:\\Csharp\\Explorando-Csharp\\DIO-Explorando.csproj": {}
   },
   "projects": {
-    "C:\\PROGRAMANDO EM C#\\DIO-Explorando\\DIO-Explorando.csproj": {
+    "C:\\Csharp\\Explorando-Csharp\\DIO-Explorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROGRAMANDO EM C#\\DIO-Explorando\\DIO-Explorando.csproj",
+        "projectUniqueName": "C:\\Csharp\\Explorando-Csharp\\DIO-Explorando.csproj",
         "projectName": "DIO-Explorando",
-        "projectPath": "C:\\PROGRAMANDO EM C#\\DIO-Explorando\\DIO-Explorando.csproj",
-        "packagesPath": "C:\\Users\\tanny.DESKTOP-TAI7BPF\\.nuget\\packages\\",
-        "outputPath": "C:\\PROGRAMANDO EM C#\\DIO-Explorando\\obj\\",
+        "projectPath": "C:\\Csharp\\Explorando-Csharp\\DIO-Explorando.csproj",
+        "packagesPath": "C:\\Users\\Tannyson\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp\\Explorando-Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tanny.DESKTOP-TAI7BPF\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tannyson\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

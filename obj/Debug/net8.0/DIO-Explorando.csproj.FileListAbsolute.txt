@@ -12,3 +12,18 @@ C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\refint\DIO-Explorando.dll
 C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.pdb
 C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\DIO-Explorando.genruntimeconfig.cache
 C:\PROGRAMANDO EM C#\DIO-Explorando\obj\Debug\net8.0\ref\DIO-Explorando.dll
+C:\Csharp\Explorando-Csharp\bin\Debug\net8.0\DIO-Explorando.exe
+C:\Csharp\Explorando-Csharp\bin\Debug\net8.0\DIO-Explorando.deps.json
+C:\Csharp\Explorando-Csharp\bin\Debug\net8.0\DIO-Explorando.runtimeconfig.json
+C:\Csharp\Explorando-Csharp\bin\Debug\net8.0\DIO-Explorando.dll
+C:\Csharp\Explorando-Csharp\bin\Debug\net8.0\DIO-Explorando.pdb
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.AssemblyInfoInputs.cache
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.AssemblyInfo.cs
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.csproj.CoreCompileInputs.cache
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.sourcelink.json
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.dll
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\refint\DIO-Explorando.dll
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.pdb
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\DIO-Explorando.genruntimeconfig.cache
+C:\Csharp\Explorando-Csharp\obj\Debug\net8.0\ref\DIO-Explorando.dll
